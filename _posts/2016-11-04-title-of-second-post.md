@@ -1,21 +1,21 @@
 ---
 layout: post
 title: This is the title of the post
-postHero: /images/hero.jpg
-author: Me, Myself, and I
+postHero: /images/small/slide1.jpg
+author: The Disreputable Dog
 authorTwitter: http://twitter.com/mhartl
-gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
+gravatar: /images/the_disreputable_dog.jpg
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 
-Call me *Ishmael*. Some years ago–*never mind how long
+Call me *The Disreputable Dog*. Some years ago–*never mind how long
 precisely*–having little or no money in my purse, and nothing
 particular to interest me on shore, I thought I would sail about a little
 and see the watery part of the world. It is a way I have of driving off
 the spleen and regulating the circulation.
 
-<img class="pull-left" src="http://placekitten.com/g/400/200"
-     alt="kitten">
+<img class="pull-left" src="/images/the_disreputable_dog.jpg"
+     alt="Illustration of dog">
 
 Whenever I find myself growing grim about the mouth; whenever it is a damp,
 drizzly November in my soul; whenever I find myself involuntarily pausing
