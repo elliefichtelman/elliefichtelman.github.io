@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is the title of the post
+title: The Disreputable Dog
 postHero: /images/small/slide1.jpg
 author: The Disreputable Dog
 authorTwitter: http://twitter.com/mhartl
